@@ -1,4 +1,2 @@
 include README.md
-recursive-include octoprint_terminalmessaging/templates *
-recursive-include octoprint_terminalmessaging/translations *
 recursive-include octoprint_terminalmessaging/static *

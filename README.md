@@ -1,20 +1,26 @@
-# Terminal Messaging
+# Octoprint-TerminalMessaging
 
-This plugin simply adjust the terminal output to look like a text message dialog using chat bubbles.
+Plugin that adds styling to the terminal tab that makes it easier to see where a message is from.
 
-![thumbnail](screenshot.png)
+Messages you send are on the right and are in green. Messages the printer sends back are on the left
+and in blue.
 
-### Sponsors
-- Andreas Lindermayr
-- [@Mearman](https://github.com/Mearman)
-- [@TxBillbr](https://github.com/TxBillbr)
-- Gerald Dachs
-- [@TheTuxKeeper](https://github.com/thetuxkeeper)
-- @tideline3d
+This is similar to how a text messaging app would differentiate between sender and receiver in the
+UI.
+
+![Screenshot](screenshot.png)
+
+This plugin is very small, and just edits the css of the elements in the terminal for readability.
+
+Enjoy!
 
 ## Setup
 
-Install manually using this URL in Plugin Manager > Get More > ...from URL:
+Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
+or manually using this URL:
 
-    https://github.com/jneilliii/OctoPrint-TerminalMessaging/archive/master.zip
+    https://github.com/jeffeb3/OctoPrint-TerminalMessaging/archive/master.zip
 
+### Special Thanks
+
+@jneilliii wrote this plugin after I asked about it in the forums. Thank you!
