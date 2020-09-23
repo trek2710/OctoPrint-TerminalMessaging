@@ -4,8 +4,8 @@
 
 #terminal-output span.received {
     position: relative;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 18px;
     text-align: left;
     color: blue;
     display: block;
@@ -13,8 +13,8 @@
 
 #terminal-output span.sent {
     position: relative;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 18px;
     text-align: right;
     color: green;
     display: block;
